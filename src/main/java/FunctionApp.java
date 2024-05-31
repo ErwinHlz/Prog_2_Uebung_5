@@ -190,7 +190,7 @@ public class FunctionApp {
             }
         };
 
-        //uafruf der applyandPrint Methode aber nur ungerade results werden ausgegeben
+        // Aufruf der applyandPrint Methode aber nur ungerade results werden ausgegeben
         System.out.println("\u001B[36m Funktion: x! aber mit ungeradem result: \u001B[00m");
         applyAndPrint(0,100,facultyFunction2.conditionateOutput(odd));
         System.out.printf("%n\u001B[36m Funktion: fib(x) aber mit ungeradem result: \u001B[00m%n");
