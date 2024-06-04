@@ -20,7 +20,7 @@ public class FunctionApp {
 
         // x² als Lamba Ausdruck
 
-        System.out.printf("%n ");
+        System.out.printf("%n");
         System.out.println("ALLE FUNKTIONEN MIT LAMDA-AUSDRÜCKEN:");
 
         System.out.println("\u001B[36m i) Funktion: x² = \u001B[38m");
